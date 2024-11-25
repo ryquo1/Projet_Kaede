@@ -12,4 +12,4 @@ Nous pourrons aussi partager les articles intéressant aux autres membres de l'a
 - [Matthéo (mattheo50)](https://github.com/mattheo50) :dog:
 
 ## Work in Progress :construction:
-Ce projet est en cours de dévelloppement sur notre temps libre, d'autres fonctionnalitées seront ammené à etre implémenté. 
+Ce projet est en cours de dévelloppement sur notre temps libre, d'autres fonctionnalitées seront ammené à etre implémenté.
